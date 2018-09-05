@@ -48,9 +48,8 @@ If you want to learn to code, but not quite ready to do it in RStudio, try [Data
 Also, consider Googling "How to _________ in R". There are tons of resources online with examples of code.
 
 
-Contact me if you have any questions. jmroith@stkate.edu
-
 
 ### Have fun with RStudio!!
 ![WoHoo!](kermit_statistics.gif)
 
+> Contact me if you have any questions. jmroith@stkate.edu
