@@ -29,10 +29,15 @@ These are some of the documents I have used in my Intro Stats classes. I expect 
 ### Tutorials
 These are some tutorials that I have created for my more advanced classes. Feel free to look them over if you would like more technical information about R and RStudio.
 
-1. [Introduction to R](IntroR1.pdf)
-2. [Tutorial 1](RTutorial_1.pdf)
-3. [Tutorial 2](RTutorial_2.pdf)
-4. [Tutorial 3](RTutorial_3.pdf)
+1. [Introduction to R: Part 1](IntroR1_F18.pdf)
+2. [Part 2](IntroR2.pdf)
+3. [Part 3](IntroR3.pdf)
+4. [Part 4](IntroR4.pdf)
+
+> Here are some more technical guides based on the programming language
+1. [Tutorial 1](RTutorial_1.pdf)
+2. [Tutorial 2](RTutorial_2.pdf)
+3. [Tutorial 3](RTutorial_3.pdf)
 
 ## More Tutorials and Help
 
