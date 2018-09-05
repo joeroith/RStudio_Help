@@ -10,6 +10,8 @@ We typically use RStudio to write and execute code since it is nicer looking. Bu
 
 [Download RStudio](https://www.rstudio.com/)
 
+[Use the Cloud (no download required)](https://rstudio.cloud/)
+
 
 > If you would like more help and instructions to download both programs [read this](R_download_data_importing.pdf).
 
