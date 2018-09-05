@@ -24,8 +24,9 @@ These are some of the documents I have used in my Intro Stats classes. I expect 
 3. [Survey Data](responses.csv)
 4. [Survey Responses in RStudio](SurveyResponses.RData)
 
-## Tutorials
+## After Stat 1090
 
+### Tutorials
 These are some tutorials that I have created for my more advanced classes. Feel free to look them over if you would like more technical information about R and RStudio.
 
 1. [Introduction to R](IntroR1.pdf)
@@ -36,6 +37,7 @@ These are some tutorials that I have created for my more advanced classes. Feel 
 ## More Tutorials and Help
 
 I highly reccomend trying the [Swirl](http://swirlstats.com/) tutorial in RStudio to get hands-on practice.
+If you want to learn to code, but not quite ready to do it in RStudio, try [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
 Also, consider Googling "How to _________ in R". There are tons of resources online with examples of code.
 
 Contact me if you have any questions. jmroith@stkate.edu
